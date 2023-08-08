@@ -20,7 +20,7 @@
 
             <div class="rolagem" id="rolagem">  
 
-            <a href="noticia.php">
+            <a href="#">
                     <img src="public/img/h1.jpg" alt="Minha Imagem">
                 </a>
                 <a href="seu_outro_link_aqui">
