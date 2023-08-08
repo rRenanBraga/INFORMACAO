@@ -12,6 +12,8 @@
 
 </head>
 
+    <img src="public/img/h2.jpg" alt="logo da pagina">
+
 <p>
     Seja bem vindosefawefawefawefr
 </p>
