@@ -12,20 +12,24 @@
 
 </head>
 
-    <img src="<?=URL?>/public/img/h2.jpg" alt="logo da pagina">
+<body>
+    <div class="logo">
+    <img src="<?=URL?>/public/img/LOGO.jpg" alt="logo da pagina">
 
 <p>
     Seja bem vindos 
 </p>
-<body>
+
+    </div>
+
 <div class="CAIXA">
 
             <div class="rolagem" id="rolagem">  
 
-            <a href="#">
-                    <img src="<?=URL?>/public/img/h1.jpg" alt="Minha Imagem">
+            <a href="<?=URL?>/app/views/paginas/if.php">
+                    <img src="<?=URL?>/public/img/IF.png" alt="Minha Imagem">
                 </a>
-                <a href="seu_outro_link_aqui">
+                <a href="<?=URL?>/app/views/paginas/noticia.php">
                     <img src="<?=URL?>/public/img/NOTICIA.png" alt="Minha Imagem">
                 </a>
             

@@ -1,8 +1,14 @@
+.logo img{
+  height: 25%;
+  width: 25%;
+
+}
+
 .CAIXA{
     display: inline-block;
     display: flex;
     margin: 200px;
-    margin-top: 300px; 
+    margin-top: 95px; 
   }
     
   .slick-prev,.slick-next {

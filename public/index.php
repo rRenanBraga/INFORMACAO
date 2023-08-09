@@ -4,6 +4,7 @@ include './../app/Libraries/Rota.php';
 include './../app/Libraries/Controller.php';
 include './../app/Libraries/Database.php';
 
+
 $db = new Database;
 /*
 $usuarioId = 10;
