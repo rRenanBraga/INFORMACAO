@@ -97,7 +97,7 @@ echo $db->resultado()->titulo;
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
 
 <script  src="<?=URL?>/public/js/jquery.funcoes.js"></script>
-<script  src="<?=URL?>/public/js/script.js"></script>
+<script  src="<?=URL?>/public/js/carrosel.js"></script>
 
 
 </body>

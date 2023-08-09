@@ -9,8 +9,8 @@
         position: absolute;
         top: 50%;
         transform: translateY(-50%);
-        background-color: #206106;
-        color: #910000;
+        background-color: #34a109;
+        color: #34a109;
         font-size: 30px;
         padding: 20px 20px;
         cursor: pointer;
@@ -18,11 +18,13 @@
     }
     
   .slick-prev {
-        left: 400px;
+        left: 350px;
+        color: #34a109;
     }
     
   .slick-next {
-        right: 400px;
+        right: 350px;
+        color: #34a109;
     }
   
   .rolagem {
@@ -30,7 +32,8 @@
       
   }
   
-  .rolagem img {
-      height: 25%;
+  .rolagem a img {
+      height: 90%;
+      width: 70%;
   
   }

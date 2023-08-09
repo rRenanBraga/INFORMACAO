@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" type="text/css" href="public/css/carrosel.css">
+    <link rel="stylesheet" type="text/css" href="<?=URL?>/public/css/carrosel.css">
 
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -26,14 +26,14 @@
                     <img src="<?=URL?>/public/img/h1.jpg" alt="Minha Imagem">
                 </a>
                 <a href="seu_outro_link_aqui">
-                    <img src="<?=URL?>/public/img/h3.jpg" alt="Minha Imagem">
+                    <img src="<?=URL?>/public/img/NOTICIA.png" alt="Minha Imagem">
                 </a>
             
         </div>
 
 </div>
 
-<script src="public/js/script.js"></script>
+<script src="<?=URL?>/public/js/carrosel.js"></script>
 
 </body>
 </html>

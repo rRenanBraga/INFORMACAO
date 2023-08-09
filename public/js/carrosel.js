@@ -6,8 +6,8 @@ $(document).ready(function() {
         slidesToShow: 1,
         adaptiveHeight: true,
             
-            prevArrow: '<button class="slick-prev" aria-label="Previous" type="button">&#9654;</button>',
-            nextArrow: '<button class="slick-next" aria-label="Next" type="button">&#9664;</button>'
+            prevArrow: '<button class="slick-prev" aria-label="Previous" type="button"></button>',
+            nextArrow: '<button class="slick-next" aria-label="Next" type="button"></button>'
           });
       
     });
