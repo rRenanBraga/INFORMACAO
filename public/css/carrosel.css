@@ -1,7 +1,23 @@
 .logo img{
   height: 25%;
   width: 25%;
+  flex: 1;
+  margin-top: 1%;
 
+}
+
+.texto{
+  flex: 1;
+  max-width: 70%;
+  padding: 10%;
+  box-sizing: border-box;
+  margin-top: -30%;
+}
+
+.texto p b{
+
+  font-family: Cambria;
+  font-size: 25px;
 }
 
 .CAIXA{
