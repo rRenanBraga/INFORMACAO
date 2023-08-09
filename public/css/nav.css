@@ -1,0 +1,46 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+    font-family: 'open Sans' sans-serif;
+}
+
+#menu-m ul li a b {
+font-family:'Calibri';
+font-size: 25px;
+}
+
+li p  {
+    font-family:'cambria';
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    padding: 25px;
+    display: inline-block;
+    }
+
+    
+#menu-m{
+    background-color:rgba(53, 167, 18, 0.849);
+}
+
+#menu-m ul{
+    max-width: 700px;
+    list-style: none;
+    padding: 0;
+}
+
+#menu-m ul li{
+    display: inline;
+}
+
+#menu-m ul li a{
+    color: rgb(5, 5, 5);
+    padding: 25px;
+    display: inline-block;
+    text-decoration: none;
+    transition: background .4s;
+}
+
+#menu-m ul li a:hover{
+    background-color:#ececec;
+}

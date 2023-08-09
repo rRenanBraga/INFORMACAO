@@ -1,0 +1,36 @@
+.CAIXA{
+    display: inline-block;
+    display: flex;
+    margin: 200px;
+    margin-top: 300px; 
+  }
+    
+  .slick-prev,.slick-next {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background-color: #206106;
+        color: #910000;
+        font-size: 30px;
+        padding: 20px 20px;
+        cursor: pointer;
+        z-index: 1;
+    }
+    
+  .slick-prev {
+        left: 400px;
+    }
+    
+  .slick-next {
+        right: 400px;
+    }
+  
+  .rolagem {
+      width: 25%; 
+      
+  }
+  
+  .rolagem img {
+      height: 25%;
+  
+  }

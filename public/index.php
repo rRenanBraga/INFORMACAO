@@ -74,7 +74,8 @@ echo $db->resultado()->titulo;
     <link rel="stylesheet" href="<?=URL?>/public/css/estilos.css">
     <link rel="stylesheet" href="<?=URL?>/public/css/estilos.css">
     
-    <link rel="stylesheet" href="<?=URL?>/public/css/style.css">    
+    <link rel="stylesheet" href="<?=URL?>/public/css/carrosel.css">   
+    <link rel="stylesheet" href="<?=URL?>/public/css/nav.css">    
     
 
 </head>
