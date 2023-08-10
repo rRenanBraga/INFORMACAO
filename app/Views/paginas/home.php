@@ -13,11 +13,8 @@
 </head>
 
 <body>
-    <div class="logo">
-    <img src="<?=URL?>/public/img/LOGO.jpg" alt="logo da pagina">
-    </div>
-
-    <div class="texto">
+   
+   <!-- <div class="texto">
     <p><b>
 
     <br>Seja bem-vindo ao IFNEWS<br>
@@ -28,7 +25,7 @@
     Sinta-se em casa enquanto navegamos pelo mundo das notícias e descobertas no IFNEWS."
     </b></p>
 
-    </div>
+    </div> -->
 
 <div class="CAIXA">
 

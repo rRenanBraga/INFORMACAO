@@ -10,9 +10,13 @@
 
 <nav id="menu-m">
         <ul>
-            <li><p><b>IFNEWS</b></p></li>
-            <li><a href="#"><b>HOME</b></a></li>
+           
+            <!-- <li><a href="#"><b>HOME</b></a></li> -->
             <li><a href="#"><b>ÚLTIMAS NOTÍCIAS</b></a></li>
+            
+            <div class="logo">
+            <img src="<?=URL?>/public/img/LOGO.jpg" alt="logo da pagina">
+            </div>
             <li><a href="#"><b>BUSCA</b></a></li>
 
         </ul>

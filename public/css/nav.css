@@ -21,26 +21,41 @@ li p  {
     
 #menu-m{
     background-color:rgba(53, 167, 18, 0.849);
+   
 }
 
 #menu-m ul{
     max-width: 700px;
     list-style: none;
     padding: 0;
+    display: flex;
+    align-items: center;
 }
 
 #menu-m ul li{
-    display: inline;
+    display:inline;
+    margin-right: 20px;
 }
+
 
 #menu-m ul li a{
     color: rgb(5, 5, 5);
     padding: 25px;
-    display: inline-block;
+    display:inline-block;
     text-decoration: none;
     transition: background .4s;
 }
 
 #menu-m ul li a:hover{
-    background-color:#ececec;
+    background-color:#f7f7f7;
 }
+
+
+#menu-m .logo img {
+    height: 35%;
+    width: 35%;
+    object-fit: contain;
+    margin-left: 14%;
+    
+}
+
