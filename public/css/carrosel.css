@@ -26,9 +26,9 @@
         top: 50%;
         transform: translateY(-50%);
         background-color: #34a109;
-        color: #34a109;
+        color: hsl(103, 89%, 33%);
         font-size: 30px;
-        padding: 20px 20px;
+        padding: 25px 25px;
         cursor: pointer;
         z-index: 1;
     }
@@ -44,7 +44,7 @@
     }
   
   .rolagem {
-      width: 40%; 
+      width: 20%; 
       
   }
   

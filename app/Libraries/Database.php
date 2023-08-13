@@ -3,7 +3,7 @@
         private $host = 'localhost';
         private $usuario = 'root';
         private $senha = '';
-        private $banco = 'blog';
+        private $banco = 'informacao';
         private $porta = '3307';
         private $dbh;
         private $stmt;

@@ -72,11 +72,11 @@ echo $db->resultado()->titulo;
     <title><?= APP_NOME ?> </title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous"/>
     
-    <link rel="stylesheet" href="<?=URL?>/public/css/estilos.css">
-    <link rel="stylesheet" href="<?=URL?>/public/css/estilos.css">
     
     <link rel="stylesheet" href="<?=URL?>/public/css/carrosel.css">   
     <link rel="stylesheet" href="<?=URL?>/public/css/nav.css">    
+    <link rel="stylesheet" href="<?=URL?>/public/css/noticia.css">    
+    <link rel="stylesheet" href="<?=URL?>/public/css/if.css">    
     
 
 </head>
@@ -98,6 +98,7 @@ echo $db->resultado()->titulo;
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
 
 <script  src="<?=URL?>/public/js/jquery.funcoes.js"></script>
+
 <script  src="<?=URL?>/public/js/carrosel.js"></script>
 
 

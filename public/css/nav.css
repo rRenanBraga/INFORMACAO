@@ -47,13 +47,13 @@ li p  {
 }
 
 #menu-m ul li a:hover{
-    background-color:#f7f7f7;
+    background-color:#f8f7f7;
 }
 
 
-#menu-m .logo img {
-    height: 35%;
-    width: 35%;
+#menu-m .logo img{
+    height: 30%;
+    width: 30%;
     object-fit: contain;
     margin-left: 14%;
     
