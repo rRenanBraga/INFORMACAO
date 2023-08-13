@@ -9,10 +9,9 @@
 </head>
 <body>
 
-<div class="news-container">
-  <div class="news-box">
-    <h2>Título da Notícia 1</h2>
-    <p>Conteúdo da notícia 1...</p>
+<div class="container">
+  <div class="item">
+
 </div>
 </div>
 
