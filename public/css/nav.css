@@ -40,7 +40,7 @@ li p  {
 
 #menu-m ul li a{
     color: rgb(0, 0, 0);
-    padding: 25px;
+    padding: 55px;
     display:inline-block;
     text-decoration: none;
     transition: background .4s;
@@ -52,8 +52,8 @@ li p  {
 
 
 #menu-m .logo img{
-    height: 30%;
-    width: 30%;
+    height: 55%;
+    width: 55%;
     object-fit: contain;
     margin-left: 14%;
     

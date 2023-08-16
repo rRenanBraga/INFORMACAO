@@ -13,19 +13,6 @@
 </head>
 
 <body>
-   
-   <!-- <div class="texto">
-    <p><b>
-
-    <br>Seja bem-vindo ao IFNEWS<br>
-
-        Sua fonte confiável de notícias e informações. 
-    Aqui, estamos comprometidos em mantê-lo informado sobre os eventos mais recentes, tendências e desenvolvimentos. 
-    Explore nossas páginas para se manter atualizado e mergulhar em uma jornada de conhecimento. 
-    Sinta-se em casa enquanto navegamos pelo mundo das notícias e descobertas no IFNEWS."
-    </b></p>
-
-    </div> -->
 
 <div class="CAIXA">
 

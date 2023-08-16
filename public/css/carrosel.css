@@ -35,16 +35,16 @@
     
   .slick-prev {
         left: 550px;
-        color: #34a109;
+        background-color: #34a109;
     }
     
   .slick-next {
         right: 550px;
-        color: #34a109;
+        background-color: #34a109;
     }
   
   .rolagem {
-      width: 30%; 
+      width: 40%; 
       
   }
   
