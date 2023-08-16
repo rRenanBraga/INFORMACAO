@@ -1,0 +1,11 @@
+.lateral {
+    width: 250px;
+    background-color: #b31616;
+    padding: 400px;
+    float: left; 
+    display: flex;
+}
+
+.container {
+    display: flex;
+}

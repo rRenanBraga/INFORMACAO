@@ -1,4 +1,4 @@
-<footer class="bg-dark p-5 text-light">
+<footer class="bg-dark p-5 text-light  clear: both;">
     <div class="container">
         <small>
            Site de informação e notícia. Versão <?= APP_VERSAO ?>

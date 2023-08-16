@@ -7,10 +7,13 @@
 
 </head>
 <body>
+    
+<?php include 'nav.php'; ?>
 
 <p>
     djcadcadahsdhaudhauhdaddddddddddddddddddtwtwtwtwt
 </p>
+
 
 </body>
 </html>
