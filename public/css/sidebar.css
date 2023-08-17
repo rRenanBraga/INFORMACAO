@@ -6,6 +6,9 @@
     display: flex;
 }
 
-.container {
+.containe {
+    background-color: rosybrown;
+    grid-area: sidebar;
+    border-radius: 0.8em;
     display: flex;
 }

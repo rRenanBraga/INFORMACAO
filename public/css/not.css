@@ -1,0 +1,15 @@
+
+.container-e{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 30px;
+  
+ }
+
+ .item{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    border-radius: 25px;
+}

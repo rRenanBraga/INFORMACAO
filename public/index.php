@@ -75,8 +75,8 @@ echo $db->resultado()->titulo;
     
     <link rel="stylesheet" href="<?=URL?>/public/css/carrosel.css">   
     <link rel="stylesheet" href="<?=URL?>/public/css/nav.css">    
-    <link rel="stylesheet" href="<?=URL?>/public/css/noticia.css">    
-    <link rel="stylesheet" href="<?=URL?>/public/css/if.css">   
+    <link rel="stylesheet" href="<?=URL?>/public/css/not.css">    
+    <link rel="stylesheet" href="<?=URL?>/public/css/ifro.css">   
     <link rel="stylesheet" href="<?=URL?>/public/css/sidebar.css">    
     
 
@@ -87,8 +87,6 @@ echo $db->resultado()->titulo;
     include '../app/views/nav.php';
     $rotas = new Rota();
     include '../app/views/footer.php';
-    $rotas = new Rota();
-    include '../app/views/sidebar.php';
     ?>
 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
